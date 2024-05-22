@@ -1,4 +1,4 @@
-# Proyecto Restaurante Balck Goose
+# Proyecto Restaurante Black Goose
 
 ***Por Dorian Yael Zuñiga Santiago
 
